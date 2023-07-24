@@ -1,0 +1,11 @@
+AUTOMATION - USER MANUAL
+Adding Cars:
+In order to add a car to the inventory, you must first type out the make, model, year, price, and status. When you are done, you click "Add Car" and it will add it to the inventory.
+Removing Cars:
+In order to remove a car from the inventory, you must select a car you wish to delete from the inventory. Next, you click "Remove Car".
+Editing Cars:
+In order to edit a car in the inventory, you must enter the correct make, model, year, price, and status then select the car you wish to edit and then click "Edit Car".
+Exiting AutoMation:
+In order to exit AutoMation, click the "Exit" button on the top right.
+Loaner Vehicles:
+In order to see the loaner vehicles, click "Loaner Vehicles" and you will be presented with a list of loaner cars.
